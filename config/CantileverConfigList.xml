@@ -1,0 +1,1128 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>18.0.1</Version>
+<Array>
+<Name>Cantilever list</Name>
+<Dimsize>14</Dimsize>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>RTESPA-150</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>1.25000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>3.50000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>1.75000000000000E-6</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>170000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>2330.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>150000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>6.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>Team Nanotec SS/ISC</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>2.25000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>3.50000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>1.50000000000000E-6</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>170000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>2330.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>49999.99999999999990</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>0.70000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>Nanosensors SSS-NCL</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>2.25000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>3.80000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>7.00000000000000E-6</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>170000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>2330.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>190000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>48.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>Nanosensors TL-FM</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>2.25000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>2.80000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>3.00000000000000E-6</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>170000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>2330.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>74999.99999999999990</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>2.80000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>Nanosensors PPP-NCH</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>1.25000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>3.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>4.00000000000000E-6</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>170000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>2330.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>329999.99999999999900</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>42.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>NCHV</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>1.25000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>4.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>4.00000000000000E-6</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>170000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>2330.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>319999.99999999999900</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>42.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>Opus 3XC-GG A long</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>5.00000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>3.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>3.00000000000000E-6</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>170000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>2330.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>17000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>0.30000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>1</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>Opus 3XC-GG B short</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>1.75000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>4.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>3.00000000000000E-6</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>170000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>2330.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>150000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>9.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>1</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>Opus 3XC-GG C inter</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>2.40000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>3.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>3.00000000000000E-6</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>170000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.27000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>2329.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>74999.99999999999990</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>2.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>11.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>1</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>AC40</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val>Olympus</Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>3.80000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>1.60000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>2.00000000000000E-7</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>280000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.26500000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>3170.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>11.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>ScanAsyst Fluid</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>7.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>1.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>6.00000000000000E-7</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>280000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.26500000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>3170.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>11.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>1</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>ScanAsyst Fluid +</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>7.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>1.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>6.00000000000000E-7</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>280000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.26500000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>3170.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>11.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>1</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>FastScan-C</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>4.20000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>4.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>3.00000000000000E-7</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>280000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.26500000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>3170.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>11.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>1</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+<Cluster>
+<Name></Name>
+<NumElts>18</NumElts>
+<String>
+<Name>Model</Name>
+<Val>Trilayer</Val>
+</String>
+<String>
+<Name>Info</Name>
+<Val></Val>
+</String>
+<DBL>
+<Name>Length [m]</Name>
+<Val>1.50000000000000E-4</Val>
+</DBL>
+<DBL>
+<Name>Width [m]</Name>
+<Val>3.00000000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Thickness [m]</Name>
+<Val>1.00000000000000E-6</Val>
+</DBL>
+<DBL>
+<Name>Young's modulus [Pa]</Name>
+<Val>170000000000.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Poisson's ratio</Name>
+<Val>0.27000000000000</Val>
+</DBL>
+<DBL>
+<Name>Density [kg/m3]</Name>
+<Val>2329.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal resonance frequency [Hz]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Nominal spring constant [N/m]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating thickness [m]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Young's modulus [Pa] </Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating Poisson's ratio</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Coating density [kg/m3]</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 1</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Reserved 2</Name>
+<Val>-1.00000000000000</Val>
+</DBL>
+<EW>
+<Name></Name>
+<Choice>Rectangular</Choice>
+<Choice>Triangular</Choice>
+<Val>0</Val>
+</EW>
+<EW>
+<Name></Name>
+<Choice>Uncoated</Choice>
+<Choice>Coated</Choice>
+<Val>0</Val>
+</EW>
+</Cluster>
+</Array>
+</LVData>

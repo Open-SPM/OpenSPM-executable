@@ -1,0 +1,40 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>22.3f0</Version>
+<Cluster>
+<Name>output cluster</Name>
+<NumElts>8</NumElts>
+<String>
+<Name>fpga_fb</Name>
+<Val>usb7856r</Val>
+</String>
+<String>
+<Name>fpga_fb_address</Name>
+<Val>RIO0</Val>
+</String>
+<String>
+<Name>fpga_se</Name>
+<Val>usb7856r</Val>
+</String>
+<String>
+<Name>fpga_se_address</Name>
+<Val>RIO0</Val>
+</String>
+<String>
+<Name>controller_version</Name>
+<Val>v2</Val>
+</String>
+<String>
+<Name>controller_type</Name>
+<Val>lbni_afm_v2</Val>
+</String>
+<String>
+<Name>user_type</Name>
+<Val>normal</Val>
+</String>
+<String>
+<Name>init_type</Name>
+<Val></Val>
+</String>
+</Cluster>
+</LVData>
