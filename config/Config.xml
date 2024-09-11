@@ -146,7 +146,7 @@
 </Cluster>
 <String>
 <Name>FPGA</Name>
-<Val>USB OEM</Val>
+<Val>USB7856R</Val>
 </String>
 <String>
 <Name>AFM system name</Name>
