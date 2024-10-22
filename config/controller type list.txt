@@ -8,5 +8,6 @@ qd_afsem_v2
 lbni_afm_oem_v2
 lbni_afm_v1
 lbni_snom_v1
+lbni_stm_v1
 lbni_sicm_v1
 
