@@ -4,13 +4,13 @@ cd ..
 
 REM Create the tempconfig folder if it doesn't exist
 set TEMP_DIR=..\tempconfig
-if not exist "%TEMP_DIR\%" (
+if not exist "%TEMP_DIR\.%" (
     mkdir "%TEMP_DIR%"
 )
 
 REM Copy the config and UserConfig folders to tempconfig
-xcopy "config" "%TEMP_DIR%\config" /s /y
-xcopy "UserConfig" "%TEMP_DIR%\UserConfig" /s /y
+xcopy "config" "%TEMP_DIR%\config\." /s /y
+xcopy "UserConfig" "%TEMP_DIR%\UserConfig\." /s /y
 
 REM Set up Git user credentials
 git config user.name "YourUserName"
@@ -28,8 +28,8 @@ REM Clear the token for security
 set GIT_TOKEN=
 
 REM Copy back the config and UserConfig folders from tempconfig to the repository root
-xcopy "%TEMP_DIR%\config\" "config" /s /y
-xcopy "%TEMP_DIR%\UserConfig\" "UserConfig" /s /y
+xcopy "%TEMP_DIR%\config\." "config" /s /y
+xcopy "%TEMP_DIR%\UserConfig\." "UserConfig" /s /y
 
 REM Remove the tempconfig directory
 rmdir /s /q "%TEMP_DIR%"
