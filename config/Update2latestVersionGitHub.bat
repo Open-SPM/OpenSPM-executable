@@ -28,7 +28,7 @@ REM Clear the token for security
 set GIT_TOKEN=
 
 REM Copy back the config and UserConfig folders from tempconfig to the repository root
-xcopy "%TEMP_DIR%\config\." "config" /s /y
+robocopy "%TEMP_DIR%\config" "config" /s /xf "Menu.rtm"
 xcopy "%TEMP_DIR%\UserConfig\." "UserConfig" /s /y
 
 REM Remove the tempconfig directory
