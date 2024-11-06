@@ -4,13 +4,13 @@ cd ..
 
 REM Create the tempconfig folder if it doesn't exist
 set TEMP_DIR=..\tempconfig
-if not exist "%TEMP_DIR\.%" (
+if not exist "%TEMP_DIR\NUL%" (
     mkdir "%TEMP_DIR%"
 )
 
 REM Copy the config and UserConfig folders to tempconfig
-xcopy "config" "%TEMP_DIR%\config\." /s /y
-xcopy "UserConfig" "%TEMP_DIR%\UserConfig\." /s /y
+xcopy "config" "%TEMP_DIR%\config" /s /y /i
+xcopy "UserConfig" "%TEMP_DIR%\UserConfig" /s /y /i
 
 REM Set up Git user credentials
 git config user.name "YourUserName"
@@ -29,7 +29,7 @@ set GIT_TOKEN=
 
 REM Copy back the config and UserConfig folders from tempconfig to the repository root
 robocopy "%TEMP_DIR%\config" "config" /s /xf "Menu.rtm" "InstallOpenSPM.bat" "Update2latestVersionGitHub.bat"
-xcopy "%TEMP_DIR%\UserConfig\." "UserConfig" /s /y
+xcopy "%TEMP_DIR%\UserConfig" "UserConfig" /s /y /i
 
 REM Remove the tempconfig directory
 rmdir /s /q "%TEMP_DIR%"
