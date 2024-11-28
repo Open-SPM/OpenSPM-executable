@@ -38,6 +38,7 @@ REM Optional: Remove Git user configuration if necessary
 git config --unset user.name
 git config --unset user.email
 
-echo Script completed.
+REM Display a success message
+echo Script completed successfully. All operations finished without errors.
 
 pause
