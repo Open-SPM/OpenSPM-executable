@@ -22,11 +22,11 @@
 </String>
 <String>
 <Name>controller_version</Name>
-<Val>v2</Val>
+<Val>v1</Val>
 </String>
 <String>
 <Name>controller_type</Name>
-<Val>lbni_afm_v2</Val>
+<Val>lbni_afm_v1_testboard</Val>
 </String>
 <String>
 <Name>user_type</Name>

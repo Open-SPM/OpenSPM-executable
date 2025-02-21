@@ -9,7 +9,7 @@
 <NumElts>2</NumElts>
 <String>
 <Name>Calibration name</Name>
-<Val>PI-tipscan</Val>
+<Val>Howard</Val>
 </String>
 <Cluster>
 <Name>Calibration parameters</Name>
@@ -19,15 +19,15 @@
 <NumElts>3</NumElts>
 <DBL>
 <Name>Sens X</Name>
-<Val>0.00000000000000</Val>
+<Val>6.50000000000000E-7</Val>
 </DBL>
 <DBL>
 <Name>Sens Y</Name>
-<Val>0.00000000000000</Val>
+<Val>6.60000000000000E-7</Val>
 </DBL>
 <DBL>
 <Name>Sens Z</Name>
-<Val>0.00000000000000</Val>
+<Val>2.50000000000000E-7</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -35,15 +35,15 @@
 <NumElts>3</NumElts>
 <DBL>
 <Name>Range X</Name>
-<Val>1.00000000000000E-4</Val>
+<Val>1.30000000000000E-4</Val>
 </DBL>
 <DBL>
 <Name>Range Y</Name>
-<Val>1.00000000000000E-4</Val>
+<Val>1.32000000000000E-4</Val>
 </DBL>
 <DBL>
 <Name>Range Z</Name>
-<Val>1.50000000000000E-5</Val>
+<Val>4.33000000000000E-6</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -51,15 +51,15 @@
 <NumElts>3</NumElts>
 <I32>
 <Name>HV gain X</Name>
-<Val>0</Val>
+<Val>20</Val>
 </I32>
 <I32>
 <Name>HV gain Y</Name>
-<Val>0</Val>
+<Val>20</Val>
 </I32>
 <I32>
 <Name>HV gain Z</Name>
-<Val>0</Val>
+<Val>20</Val>
 </I32>
 </Cluster>
 </Cluster>

@@ -18,7 +18,7 @@ git config user.email "youremail@example.com"
 
 REM Set your Git token in the remote URL for authentication
 set GIT_TOKEN=your_personal_access_token
-set REPO_URL=https://%GIT_TOKEN%@github.com/yourusername/yourrepository.git
+set REPO_URL=https://%GIT_TOKEN%@github.com/marcospenedo/OpenSPM-source.git
 
 REM Pull changes from the remote main branch
 git stash
