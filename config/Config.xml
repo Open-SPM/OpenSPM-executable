@@ -3,7 +3,7 @@
 <Version>22.3f0</Version>
 <Cluster>
 <Name>InfoConfigIn</Name>
-<NumElts>5</NumElts>
+<NumElts>6</NumElts>
 <Cluster>
 <Name>Piezo</Name>
 <NumElts>2</NumElts>
@@ -12,22 +12,22 @@
 <Val>Howard</Val>
 </String>
 <Cluster>
-<Name>Calibration parameters</Name>
-<NumElts>3</NumElts>
+<Name>Calibration Parameters</Name>
+<NumElts>7</NumElts>
 <Cluster>
 <Name>Sensitivity</Name>
 <NumElts>3</NumElts>
 <DBL>
 <Name>Sens X</Name>
-<Val>6.50000000000000E-7</Val>
+<Val>2.88888888888889E-7</Val>
 </DBL>
 <DBL>
 <Name>Sens Y</Name>
-<Val>6.60000000000000E-7</Val>
+<Val>2.93333333333333E-7</Val>
 </DBL>
 <DBL>
 <Name>Sens Z</Name>
-<Val>2.50000000000000E-7</Val>
+<Val>9.62222222222222E-9</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -62,6 +62,46 @@
 <Val>20</Val>
 </I32>
 </Cluster>
+<Cluster>
+<Name>Derate</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Derate X</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Derate Y</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Derate Z</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Offset Sens</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Offset Sens X</Name>
+<Val>2.88888888888889E-7</Val>
+</DBL>
+<DBL>
+<Name>Offset Sens Y</Name>
+<Val>2.93333333333333E-7</Val>
+</DBL>
+<DBL>
+<Name>Offset Sens Z</Name>
+<Val>9.62222222222222E-9</Val>
+</DBL>
+</Cluster>
+<DBL>
+<Name>Calib Vol</Name>
+<Val>450.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Shear Factor</Name>
+<Val>1.00000000000000</Val>
+</DBL>
 </Cluster>
 </Cluster>
 <Cluster>
@@ -155,6 +195,10 @@
 <String>
 <Name>User name</Name>
 <Val>UserName</Val>
+</String>
+<String>
+<Name>XMLConfigVersion</Name>
+<Val>1.0</Val>
 </String>
 </Cluster>
 </LVData>
