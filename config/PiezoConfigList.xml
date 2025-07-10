@@ -3,13 +3,13 @@
 <Version>22.3f0</Version>
 <Array>
 <Name>InfoConfigIn</Name>
-<Dimsize>20</Dimsize>
+<Dimsize>16</Dimsize>
 <Cluster>
 <Name>Piezo</Name>
 <NumElts>2</NumElts>
 <String>
 <Name>Calibration name</Name>
-<Val>AFMSEm</Val>
+<Val>AFMSEM</Val>
 </String>
 <Cluster>
 <Name>Calibration Parameters</Name>
@@ -192,106 +192,6 @@
 <DBL>
 <Name>Offset Sens Z</Name>
 <Val>5.11111111111111E-8</Val>
-</DBL>
-</Cluster>
-<DBL>
-<Name>Calib Vol</Name>
-<Val>450.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Shear Factor</Name>
-<Val>1.00000000000000</Val>
-</DBL>
-</Cluster>
-</Cluster>
-<Cluster>
-<Name>Piezo</Name>
-<NumElts>2</NumElts>
-<String>
-<Name>Calibration name</Name>
-<Val>AFMSEm</Val>
-</String>
-<Cluster>
-<Name>Calibration Parameters</Name>
-<NumElts>7</NumElts>
-<Cluster>
-<Name>Sensitivity</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Sens X</Name>
-<Val>2.66666666666667E-8</Val>
-</DBL>
-<DBL>
-<Name>Sens Y</Name>
-<Val>2.66666666666667E-8</Val>
-</DBL>
-<DBL>
-<Name>Sens Z</Name>
-<Val>7.77777777777778E-9</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Range</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Range X</Name>
-<Val>1.20000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Y</Name>
-<Val>1.20000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Z</Name>
-<Val>3.50000000000000E-6</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>HV gain</Name>
-<NumElts>3</NumElts>
-<I32>
-<Name>HV gain X</Name>
-<Val>20</Val>
-</I32>
-<I32>
-<Name>HV gain Y</Name>
-<Val>20</Val>
-</I32>
-<I32>
-<Name>HV gain Z</Name>
-<Val>20</Val>
-</I32>
-</Cluster>
-<Cluster>
-<Name>Derate</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Derate X</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Y</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Z</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Offset Sens</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Offset Sens X</Name>
-<Val>2.66666666666667E-8</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Y</Name>
-<Val>2.66666666666667E-8</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Z</Name>
-<Val>7.77777777777778E-9</Val>
 </DBL>
 </Cluster>
 <DBL>
@@ -1409,507 +1309,7 @@
 <NumElts>2</NumElts>
 <String>
 <Name>Calibration name</Name>
-<Val>TipScanLargeZ</Val>
-</String>
-<Cluster>
-<Name>Calibration Parameters</Name>
-<NumElts>7</NumElts>
-<Cluster>
-<Name>Sensitivity</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Sens X</Name>
-<Val>1.60000000000000E-7</Val>
-</DBL>
-<DBL>
-<Name>Sens Y</Name>
-<Val>1.88888888888889E-7</Val>
-</DBL>
-<DBL>
-<Name>Sens Z</Name>
-<Val>3.33333333333333E-8</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Range</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Range X</Name>
-<Val>7.20000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Y</Name>
-<Val>8.50000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Z</Name>
-<Val>1.50000000000000E-5</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>HV gain</Name>
-<NumElts>3</NumElts>
-<I32>
-<Name>HV gain X</Name>
-<Val>0</Val>
-</I32>
-<I32>
-<Name>HV gain Y</Name>
-<Val>0</Val>
-</I32>
-<I32>
-<Name>HV gain Z</Name>
-<Val>0</Val>
-</I32>
-</Cluster>
-<Cluster>
-<Name>Derate</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Derate X</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Y</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Z</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Offset Sens</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Offset Sens X</Name>
-<Val>1.60000000000000E-7</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Y</Name>
-<Val>1.88888888888889E-7</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Z</Name>
-<Val>3.33333333333333E-8</Val>
-</DBL>
-</Cluster>
-<DBL>
-<Name>Calib Vol</Name>
-<Val>450.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Shear Factor</Name>
-<Val>1.00000000000000</Val>
-</DBL>
-</Cluster>
-</Cluster>
-<Cluster>
-<Name>Piezo</Name>
-<NumElts>2</NumElts>
-<String>
-<Name>Calibration name</Name>
-<Val>TipScansmallZ</Val>
-</String>
-<Cluster>
-<Name>Calibration Parameters</Name>
-<NumElts>7</NumElts>
-<Cluster>
-<Name>Sensitivity</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Sens X</Name>
-<Val>1.44444444444444E-7</Val>
-</DBL>
-<DBL>
-<Name>Sens Y</Name>
-<Val>1.82222222222222E-7</Val>
-</DBL>
-<DBL>
-<Name>Sens Z</Name>
-<Val>3.33333333333333E-8</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Range</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Range X</Name>
-<Val>6.50000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Y</Name>
-<Val>8.20000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Z</Name>
-<Val>1.50000000000000E-5</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>HV gain</Name>
-<NumElts>3</NumElts>
-<I32>
-<Name>HV gain X</Name>
-<Val>0</Val>
-</I32>
-<I32>
-<Name>HV gain Y</Name>
-<Val>0</Val>
-</I32>
-<I32>
-<Name>HV gain Z</Name>
-<Val>0</Val>
-</I32>
-</Cluster>
-<Cluster>
-<Name>Derate</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Derate X</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Y</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Z</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Offset Sens</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Offset Sens X</Name>
-<Val>1.44444444444444E-7</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Y</Name>
-<Val>1.82222222222222E-7</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Z</Name>
-<Val>3.33333333333333E-8</Val>
-</DBL>
-</Cluster>
-<DBL>
-<Name>Calib Vol</Name>
-<Val>450.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Shear Factor</Name>
-<Val>1.00000000000000</Val>
-</DBL>
-</Cluster>
-</Cluster>
-<Cluster>
-<Name>Piezo</Name>
-<NumElts>2</NumElts>
-<String>
-<Name>Calibration name</Name>
-<Val>reduced-tipscan</Val>
-</String>
-<Cluster>
-<Name>Calibration Parameters</Name>
-<NumElts>7</NumElts>
-<Cluster>
-<Name>Sensitivity</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Sens X</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Sens Y</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Sens Z</Name>
-<Val>2.77777777777778E-2</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Range</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Range X</Name>
-<Val>2.88000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Y</Name>
-<Val>2.88000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Z</Name>
-<Val>12.50000000000000</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>HV gain</Name>
-<NumElts>3</NumElts>
-<I32>
-<Name>HV gain X</Name>
-<Val>0</Val>
-</I32>
-<I32>
-<Name>HV gain Y</Name>
-<Val>0</Val>
-</I32>
-<I32>
-<Name>HV gain Z</Name>
-<Val>0</Val>
-</I32>
-</Cluster>
-<Cluster>
-<Name>Derate</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Derate X</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Y</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Z</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Offset Sens</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Offset Sens X</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Y</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Z</Name>
-<Val>2.77777777777778E-2</Val>
-</DBL>
-</Cluster>
-<DBL>
-<Name>Calib Vol</Name>
-<Val>450.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Shear Factor</Name>
-<Val>1.00000000000000</Val>
-</DBL>
-</Cluster>
-</Cluster>
-<Cluster>
-<Name>Piezo</Name>
-<NumElts>2</NumElts>
-<String>
-<Name>Calibration name</Name>
-<Val>reduced-tipscan2</Val>
-</String>
-<Cluster>
-<Name>Calibration Parameters</Name>
-<NumElts>7</NumElts>
-<Cluster>
-<Name>Sensitivity</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Sens X</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Sens Y</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Sens Z</Name>
-<Val>2.77777777777778E-8</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Range</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Range X</Name>
-<Val>2.88000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Y</Name>
-<Val>2.88000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Z</Name>
-<Val>1.25000000000000E-5</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>HV gain</Name>
-<NumElts>3</NumElts>
-<I32>
-<Name>HV gain X</Name>
-<Val>0</Val>
-</I32>
-<I32>
-<Name>HV gain Y</Name>
-<Val>0</Val>
-</I32>
-<I32>
-<Name>HV gain Z</Name>
-<Val>0</Val>
-</I32>
-</Cluster>
-<Cluster>
-<Name>Derate</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Derate X</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Y</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Z</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Offset Sens</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Offset Sens X</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Y</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Z</Name>
-<Val>2.77777777777778E-8</Val>
-</DBL>
-</Cluster>
-<DBL>
-<Name>Calib Vol</Name>
-<Val>450.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Shear Factor</Name>
-<Val>1.00000000000000</Val>
-</DBL>
-</Cluster>
-</Cluster>
-<Cluster>
-<Name>Piezo</Name>
-<NumElts>2</NumElts>
-<String>
-<Name>Calibration name</Name>
-<Val>reduced-tipscan2</Val>
-</String>
-<Cluster>
-<Name>Calibration Parameters</Name>
-<NumElts>7</NumElts>
-<Cluster>
-<Name>Sensitivity</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Sens X</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Sens Y</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Sens Z</Name>
-<Val>2.77777777777778E-8</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Range</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Range X</Name>
-<Val>2.88000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Y</Name>
-<Val>2.88000000000000E-5</Val>
-</DBL>
-<DBL>
-<Name>Range Z</Name>
-<Val>1.25000000000000E-5</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>HV gain</Name>
-<NumElts>3</NumElts>
-<I32>
-<Name>HV gain X</Name>
-<Val>0</Val>
-</I32>
-<I32>
-<Name>HV gain Y</Name>
-<Val>0</Val>
-</I32>
-<I32>
-<Name>HV gain Z</Name>
-<Val>0</Val>
-</I32>
-</Cluster>
-<Cluster>
-<Name>Derate</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Derate X</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Y</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Derate Z</Name>
-<Val>0.00000000000000</Val>
-</DBL>
-</Cluster>
-<Cluster>
-<Name>Offset Sens</Name>
-<NumElts>3</NumElts>
-<DBL>
-<Name>Offset Sens X</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Y</Name>
-<Val>6.40000000000000E-8</Val>
-</DBL>
-<DBL>
-<Name>Offset Sens Z</Name>
-<Val>2.77777777777778E-8</Val>
-</DBL>
-</Cluster>
-<DBL>
-<Name>Calib Vol</Name>
-<Val>450.00000000000000</Val>
-</DBL>
-<DBL>
-<Name>Shear Factor</Name>
-<Val>1.00000000000000</Val>
-</DBL>
-</Cluster>
-</Cluster>
-<Cluster>
-<Name>Piezo</Name>
-<NumElts>2</NumElts>
-<String>
-<Name>Calibration name</Name>
-<Val>PI-tipscan</Val>
+<Val>J</Val>
 </String>
 <Cluster>
 <Name>Calibration Parameters</Name>
@@ -1927,7 +1327,7 @@
 </DBL>
 <DBL>
 <Name>Sens Z</Name>
-<Val>3.33333333333333E-8</Val>
+<Val>8.88888888888889E-9</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -1943,7 +1343,7 @@
 </DBL>
 <DBL>
 <Name>Range Z</Name>
-<Val>1.50000000000000E-5</Val>
+<Val>4.00000000000000E-6</Val>
 </DBL>
 </Cluster>
 <Cluster>
@@ -1991,7 +1391,207 @@
 </DBL>
 <DBL>
 <Name>Offset Sens Z</Name>
-<Val>3.33333333333333E-8</Val>
+<Val>8.88888888888889E-9</Val>
+</DBL>
+</Cluster>
+<DBL>
+<Name>Calib Vol</Name>
+<Val>450.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Shear Factor</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>Piezo</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Calibration name</Name>
+<Val>E Holy</Val>
+</String>
+<Cluster>
+<Name>Calibration Parameters</Name>
+<NumElts>7</NumElts>
+<Cluster>
+<Name>Sensitivity</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Sens X</Name>
+<Val>2.74755555555556E-8</Val>
+</DBL>
+<DBL>
+<Name>Sens Y</Name>
+<Val>3.12888888888889E-8</Val>
+</DBL>
+<DBL>
+<Name>Sens Z</Name>
+<Val>8.55555555555556E-9</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Range</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Range X</Name>
+<Val>1.23640000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Range Y</Name>
+<Val>1.40800000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Range Z</Name>
+<Val>3.85000000000000E-6</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>HV gain</Name>
+<NumElts>3</NumElts>
+<I32>
+<Name>HV gain X</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>HV gain Y</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>HV gain Z</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Derate</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Derate X</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Derate Y</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Derate Z</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Offset Sens</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Offset Sens X</Name>
+<Val>2.74755555555556E-8</Val>
+</DBL>
+<DBL>
+<Name>Offset Sens Y</Name>
+<Val>3.12888888888889E-8</Val>
+</DBL>
+<DBL>
+<Name>Offset Sens Z</Name>
+<Val>8.55555555555556E-9</Val>
+</DBL>
+</Cluster>
+<DBL>
+<Name>Calib Vol</Name>
+<Val>450.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Shear Factor</Name>
+<Val>1.00000000000000</Val>
+</DBL>
+</Cluster>
+</Cluster>
+<Cluster>
+<Name>Piezo</Name>
+<NumElts>2</NumElts>
+<String>
+<Name>Calibration name</Name>
+<Val>E Bernadette</Val>
+</String>
+<Cluster>
+<Name>Calibration Parameters</Name>
+<NumElts>7</NumElts>
+<Cluster>
+<Name>Sensitivity</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Sens X</Name>
+<Val>3.33422222222222E-8</Val>
+</DBL>
+<DBL>
+<Name>Sens Y</Name>
+<Val>3.56888888888889E-8</Val>
+</DBL>
+<DBL>
+<Name>Sens Z</Name>
+<Val>8.11555555555556E-9</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Range</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Range X</Name>
+<Val>1.50040000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Range Y</Name>
+<Val>1.60600000000000E-5</Val>
+</DBL>
+<DBL>
+<Name>Range Z</Name>
+<Val>3.65200000000000E-6</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>HV gain</Name>
+<NumElts>3</NumElts>
+<I32>
+<Name>HV gain X</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>HV gain Y</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>HV gain Z</Name>
+<Val>0</Val>
+</I32>
+</Cluster>
+<Cluster>
+<Name>Derate</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Derate X</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Derate Y</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>Derate Z</Name>
+<Val>0.00000000000000</Val>
+</DBL>
+</Cluster>
+<Cluster>
+<Name>Offset Sens</Name>
+<NumElts>3</NumElts>
+<DBL>
+<Name>Offset Sens X</Name>
+<Val>3.33422222222222E-8</Val>
+</DBL>
+<DBL>
+<Name>Offset Sens Y</Name>
+<Val>3.56888888888889E-8</Val>
+</DBL>
+<DBL>
+<Name>Offset Sens Z</Name>
+<Val>8.11555555555556E-9</Val>
 </DBL>
 </Cluster>
 <DBL>
