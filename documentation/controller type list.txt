@@ -11,4 +11,5 @@ lbni_afm_v1_OEM
 lbni_snom_v1
 lbni_stm_v1
 lbni_sicm_v1
+lbni_afm_v2.5
 
